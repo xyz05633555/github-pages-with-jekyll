@@ -1,5 +1,5 @@
 ---
-title: Love story of Hanhan and Hazel
+title: "Love Story of Hanhan and Hazel"
 date: 2021-12-05
 ---
 
